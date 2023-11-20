@@ -1,0 +1,156 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop MSI GF63 Thin 11SC 664VN",
+      "price": 14990000,
+      "description": "good",
+      "image": "https://cdn.ankhang.vn/media/product/250_22666_laptop_msi_cyborg_15_a12ve_240vn_000.jpg",
+      "category_id": 1,
+      "rate":3
+    },
+    {
+      "id": 2,
+      "name": "Laptop MSI Cyborg 15 A12VE 240VN",
+      "price": 25490000,
+      "description": "good",
+      "image": "https://cdn.ankhang.vn/media/product/250_21221_laptop_msi_gf63_thin_11sc_664vn_00.jpg",
+      "category_id": 1,
+      "rate":3
+    },
+    {
+      "id": 3,
+      "name": "Laptop MSI Cyborg 15 A12VE 240VN",
+      "price": 39390000,
+      "description": "good",
+      "image": "https://cdn.ankhang.vn/media/product/250_23738_laptop_asus_tuf_gaming_f15_fx507vv4_lp382w_000.jpg",
+      "category_id": 1,
+      "rate":3
+    },
+    {
+      "id": 4,
+      "name": "Laptop MSI Cyborg 15 A12VE 240VN",
+      "price": 24090000,
+      "description": "good",
+      "image": "https://cdn.ankhang.vn/media/product/250_21291_fx507zc_hn124w_2.jpg",
+      "category_id": 1,
+      "rate":3
+    },
+    {
+      "id": 5,
+      "name": "Laptop MSI Cyborg 15 A12VE 240VN",
+      "price": 17990000,
+      "description": "good",
+      "image": "https://cdn.ankhang.vn/media/product/250_21447_fx506hc_hn144w_12.jpg",
+      "category_id": 1,
+      "rate":3
+      
+    },
+    {
+      "name": "Laptop Lenovo ThinkPad X1 Carbon Gen 10 21CBS15Q00",
+      "price": {
+        "number": 40590000
+      },
+      "description": "The most powerful laptop for gaming",
+      "image": "https://cdn.ankhang.vn/media/product/250_22577_lenovo_thinkpad_x1_carbon_gen_10_21cbs15q00_20.jpg",
+      "category_id": 6,
+      "id": 12,
+      "rate":3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "ASUS"
+    },
+    {
+      "id": 2,
+      "name": "HP"
+    },
+    {
+      "name": "LG",
+      "id": 3
+    },
+    {
+      "name": "MSI",
+      "id": 4
+    },
+    {
+      "name": "Dell",
+      "id": 5
+    },
+    {
+      "name": "Lenovo",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "duc123@gmail.com",
+      "password": "$2a$10$KzqFsS0Bhw1R6mreuxL1uunOj0WrIw1l0MHPq07AR6XpuzP7LAk0e",
+      "id": 1,
+      "role": 1
+    },
+    {
+      "email": "envidi123@gmail.com",
+      "password": "$2a$10$t4ViHwloK.uYguVcda3.q.aEr28Yomvz2GDbNoJG3suqMcYN6UQia",
+      "username": "envidi",
+      "confirm": "12345",
+      "remember": true,
+      "role": 1,
+      "id": 2
+    },
+    {
+      "email": "envidi123@gmail.com",
+      "password": "$2a$10$dPXL/IsyAZbPnnQyj5ALzulGm/xcPbVQFnf3l/EEIozm0HgW5pCaO",
+      "username": "envidi",
+      "confirm": "12345",
+      "remember": true,
+      "id": 3
+    },
+    {
+      "email": "envidi78@gmail.com",
+      "password": "$2a$10$5BSeC/M89m91C46FBA4C4u7EcGNbDBUHi9hN8H9v9VQ19rWJoDceK",
+      "username": "envidi78",
+      "role": 1,
+      "id": 4
+    },
+    {
+      "email": "duc0909@gmail.com",
+      "password": "$2a$10$/f2Su5x.Vo9AFnECZtL8A.cCrkQh6DkWCdHX67X4Z6zVP7E6zrXu2",
+      "username": "duc12345",
+      "confirm": "123456",
+      "remember": true,
+      "id": 5
+    },
+    {
+      "email": "duc0909@gmail.com",
+      "password": "$2a$10$K/EV3bJp/TKF6XN9TEOtGuXUnJpisIbipzy7iHftoGnRsq/9A8DMK",
+      "username": "duc12345",
+      "confirm": "123456",
+      "remember": true,
+      "id": 6
+    },
+    {
+      "email": "envidi8989@gmail.com",
+      "password": "$2a$10$hv4OfTyS6CTJrjpSNojChecCjlWj9TUbDrvdSIVfv/vJi2CJLKkMi",
+      "username": "hello23",
+      "role": 1,
+      "id": 7
+    }
+  ],
+  "roleID": [
+    {
+      "id": 1,
+      "name": "Admin"
+    },
+    {
+      "id": 2,
+      "name": "Manager"
+    },
+    {
+      "id": 3,
+      "name": "Member"
+    }
+  ]
+}
